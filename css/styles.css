@@ -73,6 +73,11 @@
     line-height: 30px;
   }
 
+  .middle-container
+  {
+  position : relative;
+  }
+
   .bottom-container
   {
     position : relative;

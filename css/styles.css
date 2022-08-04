@@ -71,6 +71,7 @@
   .contact-me
   {
     line-height: 30px;
+    position : relative;
   }
 
   .middle-container

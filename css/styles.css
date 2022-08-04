@@ -75,6 +75,7 @@
 
   .bottom-container
   {
+    position : relative;
     background-color : #66BFBF;
     padding : 20px;
     margin : 100px auto 0;
